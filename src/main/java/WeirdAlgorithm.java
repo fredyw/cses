@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+/**
+ * https://cses.fi/problemset/task/1068
+ */
 public class WeirdAlgorithm {
     private static void solve(long n) {
         var m = n;
