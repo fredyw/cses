@@ -1,12 +1,2 @@
-/bin/
-.classpath
-.gradle/
-.settings/
-.project
-build/
-*.iml
-*.ipr
-*.iws
-*.swp
-out/
+target/
 .idea/
