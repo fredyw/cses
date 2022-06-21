@@ -5,7 +5,7 @@ fn main() {
     let mut line = String::new();
     io::stdin().read_line(&mut line).unwrap();
     let n: i32 = line.trim().parse().unwrap();
-    for _i in 0..n {
+    for _ in 0..n {
         let mut line = String::new();
         io::stdin().read_line(&mut line).unwrap();
         let coord = line

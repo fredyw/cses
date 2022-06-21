@@ -11,7 +11,7 @@ fn main() {
         println!("NO SOLUTION");
     } else {
         let mut j = 2;
-        for _i in 0..n {
+        for _ in 0..n {
             if j == 2 {
                 print!("{}", j);
             } else {
